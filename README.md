@@ -7,7 +7,7 @@ https://github.com/miguelgrinberg/flasky.
 ![Alt text](Screenshots/Activity1_1.png)
 
 ## Activity 2
-
+![Alt text](Screenshots/Activity2_1.png)
 
 ## Activity 3
 
